@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.6.0)
+  - HTSQLite (0.1.2)
+  - HTSwift (1.2.7)
+  - HTSwiftNetwork (0.1.0):
+    - Alamofire (~> 4.6.0)
+    - HTSQLite
+    - HTSwift
+
+DEPENDENCIES:
+  - HTSwift (from `../../HTSwift/`)
+  - HTSwiftNetwork (from `../`)
+
+EXTERNAL SOURCES:
+  HTSwift:
+    :path: ../../HTSwift/
+  HTSwiftNetwork:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  HTSQLite: 8ef36a9a77afd40fc1f3afca86600942dbf5c197
+  HTSwift: 801d29b53a61c3a83f971229b2b982c22e4d49c1
+  HTSwiftNetwork: 428b0ca39539c36dc677671be19753247e711c59
+
+PODFILE CHECKSUM: 319a45607069b892220d461e4c84d39aeeae4cd9
+
+COCOAPODS: 1.4.0

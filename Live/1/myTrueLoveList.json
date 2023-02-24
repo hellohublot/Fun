@@ -1,0 +1,34 @@
+{
+	"code": 200,
+	"message": "",
+	"data": {
+		"list": [
+			{
+				"is_expire": false,
+				"status": true,
+				"rid": "1",
+				"uid": "1",
+				"expire": "1648067764",
+				"loveLevel": 20,
+				"points": "2001",
+				"is_rep": true,
+				"badgeTitle": "真爱哈哈哈",
+				"nickname": "\u8096\u8096\u79bb\u4e0d\u5f00\u4f60\u4eec",
+				"headimage": "https:\/\/img1.img.9xiu.com\/upload\/roomimg_web\/2018\/11\/10\/4520828119143805110g9fda_317x317.jpg"
+			}, 
+			{
+				"is_expire": true,
+				"status": true,
+				"rid": "1",
+				"uid": "1",
+				"expire": "1448067764",
+				"loveLevel": 20,
+				"points": "2000",
+				"is_rep": true,
+				"badgeTitle": "真爱哈哈哈",
+				"nickname": "\u8096\u8096\u79bb\u4e0d\u5f00\u4f60\u4eec",
+				"headimage": "https:\/\/img1.img.9xiu.com\/upload\/roomimg_web\/2018\/11\/10\/4520828119143805110g9fda_317x317.jpg"
+			}, 
+		]
+	}
+}

@@ -1,0 +1,35 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'Live' do
+	pod 'SnapKit', '4.2.0'
+	pod 'Kingfisher', '4.10.1'
+	pod 'MJExtension', '3.0.15.1'
+	pod 'SVProgressHUD', '2.2.5'
+	pod 'IQKeyboardManager', '6.2.0'
+	pod 'RTRootNavigationController', '0.7.1'
+	pod 'GPUImage', '0.1.7'
+	pod 'CocoaAsyncSocket', '7.6.3'
+	pod 'RongCloudIM/IMLib', '2.9.8'
+	pod 'RongCloudIM/IMKit', '2.9.8'
+	
+#	pod 'TZImagePickerController'
+#	pod 'Bugly'
+    
+#    pod 'VTMagic', :path => '../Common/VTMagic'
+	
+	pod 'HTSwift', :path => '../Common/HTSwift'
+	pod 'HTButton', :path => '../Common/HTButton'
+	pod 'HTScrollPageView', :path => '../Common/HTScrollPageView'
+	pod 'HTCollectionFallLayout', :git => 'https://github.com/hellohublot/HTCollectionFallLayout.git'
+#	pod 'HTActionSheet', :path => '../Common/HTActionSheet'
+	pod 'HTMaskView', :path => '../Common/HTMaskView'
+#	pod 'HTItunes', :path => '../Common/HTItunes'
+	pod 'HTSwiftRefresh', :path => '../Common/HTSwiftRefresh'
+  pod 'HTSQLite', :path => '../Common/HTSQLite'
+	pod 'HTSwiftNetwork', :path => '../Common/HTSwiftNetwork'
+	pod 'HTSwiftPlaceholder', :path => '../Common/HTSwiftPlaceholder'
+#	pod 'HTImageBrowserView', :path => '../Common/HTImageBrowserView'
+#	pod 'HTActionSheet', :path => '../Common/HTActionSheet'
+#	pod 'HTFPSLabel', :path => '../Common/HTFPSLabel'
+end

@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'HTSwiftNetwork_Example' do
+	pod 'HTSwift', :path => '../../HTSwift/'
+  	pod 'HTSwiftNetwork', :path => '../'
+end

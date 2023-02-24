@@ -1,0 +1,49 @@
+PODS:
+  - HTButton (0.1.0)
+  - HTCollectionFallLayout (0.1.0)
+  - HTScrollPageView (0.1.0)
+  - HTSwift (1.2.7)
+  - RTRootNavigationController (0.6.7):
+    - RTRootNavigationController/Core (= 0.6.7)
+  - RTRootNavigationController/Core (0.6.7)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - HTButton (from `../Common/HTButton`)
+  - HTCollectionFallLayout (from `https://github.com/hellohublot/HTCollectionFallLayout.git`)
+  - HTScrollPageView (from `../Common/HTScrollPageView`)
+  - HTSwift (from `../Common/HTSwift`)
+  - RTRootNavigationController (= 0.6.7)
+  - SnapKit (= 4.0.0)
+
+SPEC REPOS:
+  trunk:
+    - RTRootNavigationController
+    - SnapKit
+
+EXTERNAL SOURCES:
+  HTButton:
+    :path: "../Common/HTButton"
+  HTCollectionFallLayout:
+    :git: https://github.com/hellohublot/HTCollectionFallLayout.git
+  HTScrollPageView:
+    :path: "../Common/HTScrollPageView"
+  HTSwift:
+    :path: "../Common/HTSwift"
+
+CHECKOUT OPTIONS:
+  HTCollectionFallLayout:
+    :commit: 89263ade57c0b3c1fbccefc74a30b45e9a0a8d23
+    :git: https://github.com/hellohublot/HTCollectionFallLayout.git
+
+SPEC CHECKSUMS:
+  HTButton: 2932971903a1c69dccb23158d497f5ecd31cae78
+  HTCollectionFallLayout: 32c2017f2de34cf01cf8e09b77cc38f597c2e4e7
+  HTScrollPageView: 8b41297f0f74d9c0a1f42ad57c4433ea8cbd4c2d
+  HTSwift: f7825244ca462124a26c2eff1be4ff3091716658
+  RTRootNavigationController: d6aa6cbb78a3eaecea4f6e4df63f15dd887836b8
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 90a29298537a6ff44c84186923712be27fb128f9
+
+COCOAPODS: 1.11.3

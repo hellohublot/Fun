@@ -1,0 +1,117 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CocoaAsyncSocket (7.6.3)
+  - GPUImage (0.1.7)
+  - HTButton (0.1.0)
+  - HTCollectionFallLayout (0.1.0)
+  - HTMaskView (0.1.0)
+  - HTScrollPageView (0.1.0)
+  - HTSQLite (0.1.2)
+  - HTSwift (1.2.7)
+  - HTSwiftNetwork (0.1.0):
+    - Alamofire
+    - HTSQLite
+    - HTSwift
+  - HTSwiftPlaceholder (0.1.0):
+    - HTSwift
+  - HTSwiftRefresh (0.1.0):
+    - HTSwift
+    - MJRefresh
+  - IQKeyboardManager (6.2.0)
+  - Kingfisher (4.10.1)
+  - MJExtension (3.0.15.1)
+  - MJRefresh (3.7.5)
+  - RongCloudIM/IMKit (2.9.8):
+    - RongCloudIM/IMLib
+  - RongCloudIM/IMLib (2.9.8)
+  - RTRootNavigationController (0.7.1):
+    - RTRootNavigationController/Core (= 0.7.1)
+  - RTRootNavigationController/Core (0.7.1)
+  - SnapKit (4.2.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket (= 7.6.3)
+  - GPUImage (= 0.1.7)
+  - HTButton (from `../Common/HTButton`)
+  - HTCollectionFallLayout (from `https://github.com/hellohublot/HTCollectionFallLayout.git`)
+  - HTMaskView (from `../Common/HTMaskView`)
+  - HTScrollPageView (from `../Common/HTScrollPageView`)
+  - HTSQLite (from `../Common/HTSQLite`)
+  - HTSwift (from `../Common/HTSwift`)
+  - HTSwiftNetwork (from `../Common/HTSwiftNetwork`)
+  - HTSwiftPlaceholder (from `../Common/HTSwiftPlaceholder`)
+  - HTSwiftRefresh (from `../Common/HTSwiftRefresh`)
+  - IQKeyboardManager (= 6.2.0)
+  - Kingfisher (= 4.10.1)
+  - MJExtension (= 3.0.15.1)
+  - RongCloudIM/IMKit (= 2.9.8)
+  - RongCloudIM/IMLib (= 2.9.8)
+  - RTRootNavigationController (= 0.7.1)
+  - SnapKit (= 4.2.0)
+  - SVProgressHUD (= 2.2.5)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CocoaAsyncSocket
+    - GPUImage
+    - IQKeyboardManager
+    - Kingfisher
+    - MJExtension
+    - MJRefresh
+    - RongCloudIM
+    - RTRootNavigationController
+    - SnapKit
+    - SVProgressHUD
+
+EXTERNAL SOURCES:
+  HTButton:
+    :path: "../Common/HTButton"
+  HTCollectionFallLayout:
+    :git: https://github.com/hellohublot/HTCollectionFallLayout.git
+  HTMaskView:
+    :path: "../Common/HTMaskView"
+  HTScrollPageView:
+    :path: "../Common/HTScrollPageView"
+  HTSQLite:
+    :path: "../Common/HTSQLite"
+  HTSwift:
+    :path: "../Common/HTSwift"
+  HTSwiftNetwork:
+    :path: "../Common/HTSwiftNetwork"
+  HTSwiftPlaceholder:
+    :path: "../Common/HTSwiftPlaceholder"
+  HTSwiftRefresh:
+    :path: "../Common/HTSwiftRefresh"
+
+CHECKOUT OPTIONS:
+  HTCollectionFallLayout:
+    :commit: 89263ade57c0b3c1fbccefc74a30b45e9a0a8d23
+    :git: https://github.com/hellohublot/HTCollectionFallLayout.git
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CocoaAsyncSocket: eafaa68a7e0ec99ead0a7b35015e0bf25d2c8987
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  HTButton: 2932971903a1c69dccb23158d497f5ecd31cae78
+  HTCollectionFallLayout: 32c2017f2de34cf01cf8e09b77cc38f597c2e4e7
+  HTMaskView: 17823f9c0fb65479efbeb39f452e4d58678e213e
+  HTScrollPageView: 8b41297f0f74d9c0a1f42ad57c4433ea8cbd4c2d
+  HTSQLite: 9eb457754561115df8e856c8c30311181e30c542
+  HTSwift: f7825244ca462124a26c2eff1be4ff3091716658
+  HTSwiftNetwork: a7079b207136c6f218f783b740f002b9214b7858
+  HTSwiftPlaceholder: 0d0878594bd80b523f9e875b79772e0028d58cdf
+  HTSwiftRefresh: e8d8f49f94146b594192ff23a1f91686b42a15b2
+  IQKeyboardManager: 6194101620b73af5e67900b8f89707a99de0b804
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
+  RongCloudIM: dcfa8c4fe11e992c0d187f7dda71f2ce5bfae4d1
+  RTRootNavigationController: afa6913402be26f8326f7f37fc1550aa67baddcc
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: b08d4a40c868c2df923a508e7dea1b57e83faa7e
+
+COCOAPODS: 1.11.3

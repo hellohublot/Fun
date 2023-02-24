@@ -1,0 +1,56 @@
+{
+	"code": 200,
+	"message": "",
+	"data": {
+		"totalRow": 10000,
+		"totalPage": 1000,
+		"nowPage": 1,
+		"list": [
+			{
+				"issubscribe": true,
+				"roomtype": 1,
+				"fbadge": "",
+				"rid": "1",
+				"status": 1,
+				"timestr": "2019年",
+				"follownum": "5000",
+				"uid": "1",
+				"guardLevel": 10,
+				"wealth_level": 10,
+				"gid": "1",
+				"nickname": "\u4e03\u59b9\u6c42\u5bb6\u4eba\u5b88\u62a4",
+				"headimage": "https:\/\/img7.img.9xiu.com\/upload\/roomimg_web\/2018\/12\/20\/46191297112931otwusgqxvk_317x317.jpg"
+			},
+			{
+				"issubscribe": false,
+				"roomtype": 1,
+				"fbadge": "",
+				"rid": "1",
+				"status": 1,
+				"timestr": "2019年",
+				"follownum": "5000",
+				"uid": "1",
+				"guardLevel": 10,
+				"wealth_level": 10,
+				"gid": "1",
+				"nickname": "\u4e03\u59b9\u6c42\u5bb6\u4eba\u5b88\u62a4",
+				"headimage": "https:\/\/img7.img.9xiu.com\/upload\/roomimg_web\/2018\/12\/20\/46191297112931otwusgqxvk_317x317.jpg"
+			},
+			{
+				"issubscribe": true,
+				"roomtype": 1,
+				"fbadge": "",
+				"rid": "1",
+				"status": 0,
+				"timestr": "2019年",
+				"follownum": "5000",
+				"uid": "1",
+				"guardLevel": 10,
+				"wealth_level": 10,
+				"gid": "1",
+				"nickname": "\u4e03\u59b9\u6c42\u5bb6\u4eba\u5b88\u62a4",
+				"headimage": "https:\/\/img7.img.9xiu.com\/upload\/roomimg_web\/2018\/12\/20\/46191297112931otwusgqxvk_317x317.jpg"
+			}
+		]
+	}
+}

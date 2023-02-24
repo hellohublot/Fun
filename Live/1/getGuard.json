@@ -1,0 +1,50 @@
+{
+	"code": 200,
+	"message": "",
+	"data": [
+		{
+			"anchor_isplay": "1",
+			"anchor_nickname": "\u4e03\u59b9\u6c42\u5bb6\u4eba\u5b88\u62a4",
+			"dueTime": 1648064483,
+			"endtime": "1648064483",
+			"gid": "90001",
+			"guardType": 1,
+			"guard_status": "1",
+			"headimage": "https:\/\/img7.img.9xiu.com\/upload\/roomimg_web\/2018\/12\/20\/46191297112931otwusgqxvk_317x317.jpg",
+			"id": "1",
+			"isactive": "1",
+			"num": 5000,
+			"rid": "1",
+			"room_type": "1",
+			"starttime": "1448064483",
+			"stocktype": "1",
+			"uid": "1",
+			"url": "https:\/\/img7.img.9xiu.com\/upload\/roomimg_web\/2018\/12\/20\/46191297112931otwusgqxvk_317x317.jpg",
+			"userExp": "50000",
+			"userExpLevel": 20,
+			"userExpNextLevel": 21
+		},
+		{
+			"anchor_isplay": "0",
+			"anchor_nickname": "\u4e03\u59b9\u6c42\u5bb6\u4eba\u5b88\u62a4",
+			"dueTime": 1648064483,
+			"endtime": "1648064483",
+			"gid": "90003",
+			"guardType": 1,
+			"guard_status": "1",
+			"headimage": "https:\/\/img7.img.9xiu.com\/upload\/roomimg_web\/2018\/12\/20\/46191297112931otwusgqxvk_317x317.jpg",
+			"id": "1",
+			"isactive": "1",
+			"num": 5000,
+			"rid": "1",
+			"room_type": "1",
+			"starttime": "1448064483",
+			"stocktype": "1",
+			"uid": "1",
+			"url": "https:\/\/img7.img.9xiu.com\/upload\/roomimg_web\/2018\/12\/20\/46191297112931otwusgqxvk_317x317.jpg",
+			"userExp": "50000",
+			"userExpLevel": 20,
+			"userExpNextLevel": 21
+		}
+	]
+}
