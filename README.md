@@ -2,7 +2,7 @@
 
 
 ### Emit Layer mock Music163
-![](./resource/emitLayer.gif)
+<img src="./resource/emitLayer.gif" width=350 />
 
 ### Gravity Circle
 
