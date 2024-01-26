@@ -1,17 +1,17 @@
 ## Fun
 
 
-### Emit Layer mock Music163
+### Imitate the emitLayer of Music163
 <img src="./resource/emitLayer.gif" width=350 />
 
-### Gravity Circle
+### Balls that follow gravity
 
 ![](./resource/gravityCircle.gif)
 
-### Navigation Slider mock MiniBlog
+### Imitate the navigation slider of MiniBlog
 
 ![](./resource/navigationSlider.gif)
 
-### Gesture follow mock Message
+### Imitate the gesture follow of Message
 
 ![](./resource/messageBounces.gif)
